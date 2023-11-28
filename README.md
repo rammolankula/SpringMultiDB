@@ -19,7 +19,7 @@ Connection Mutiple Databases by single project
 
 
 ##### MySQL
-<br>&#8594; db2.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+&#8594; db2.datasource.driver-class-name=com.mysql.cj.jdbc.Driver<br>&#8594
 &#8594; db2.datasource.jdbc-url=jdbc:mysql://localhost:3306/Learning
 &#8594; db2.datasource.username=root
 &#8594; db2.datasource.password=root
