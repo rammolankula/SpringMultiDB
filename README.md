@@ -14,8 +14,8 @@ Connection Mutiple Databases by single project
 ##### PostgresDB
 &#8594;  db1.datasource.driver-class-name=org.postgresql.Driver <br>&#8594
 &#8594;  db1.datasource.jdbc-url=jdbc:postgresql://localhost:5432/Learning <br>&#8594
-&#8594; db1.datasource.username=postgres <br>&#8594
-&#8594, db1.datasource.password=root <br>&#8594
+&#8594;  db1.datasource.username=postgres <br>&#8594
+&#8594;  db1.datasource.password=root <br>&#8594
 
 
 ##### MySQL
