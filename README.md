@@ -6,9 +6,11 @@ Connection Mutiple Databases by single project
 
 ###### This time i am implementing the Multiple Databases
 ###### we need below Objects in order:
-&#8594;   DataSource <br>&#8594
-&#8594;   EntityManagerFactory <br>&#8594
-&#8594;   TransactionManager  <br>&#8594
+<pre>
+&#8594;   DataSource
+&#8594;   EntityManagerFactory 
+&#8594;   TransactionManager  
+  </pre>
 ###### above all need to implement by using beans
 ###### Required Multiple DataBase Credentials
 ##### PostgresDB
@@ -20,23 +22,29 @@ Connection Mutiple Databases by single project
 </pre>
 
 ##### MySQL
+<pre>
 &#8594; db2.datasource.driver-class-name=com.mysql.cj.jdbc.Driver 
 &#8594; db2.datasource.jdbc-url=jdbc:mysql://localhost:3306/Learning 
 &#8594; db2.datasource.username=root 
 &#8594; db2.datasource.password=root
+</pre>
 
 ### Code Flow
-&#8594; Created a spring boot starter project <br>&#8594
-&#8594; Created a application.properties <br>&#8594
-&#8594; Created a two different model classes <br>&#8594
-&#8594; Written a Repo classes for above model classes <br>&#8594
-&#8594; Written a configuration class for two databases<br>&#8594
-&#8594; Written a service to insert the data <br>&#8594
+<pre>
+&#8594; Created a spring boot starter project 
+&#8594; Created a application.properties 
+&#8594; Created a two different model classes 
+&#8594; Written a Repo classes for above model classes 
+&#8594; Written a configuration class for two databases
+&#8594; Written a service to insert the data 
+</pre>
 
 
 ###### Hit below URL to check
+<pre>
 &#8594; http://localhost:8080/getAllProducts <br>&#8594
 &#8594; http://localhost:8080/getAllCustomers <br>&#8594
+</pre>
 
 
 
