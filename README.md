@@ -6,16 +6,16 @@ Connection Mutiple Databases by single project
 
 ###### This time i am implementing the Multiple Databases
 ###### we need below Objects in order:
-&#8594; DataSource <br>&#8594
-&#8594; EntityManagerFactory<br>&#8594
-&#8594; TransactionManager  <br>&#8594
+&#8594;DataSource <br>&#8594
+&#8594;EntityManagerFactory<br>&#8594
+&#8594;TransactionManager  <br>&#8594
 ###### above all need to implement by using beans
 ###### Required Multiple DataBase Credentials
 ##### PostgresDB
 &#8594;  db1.datasource.driver-class-name=org.postgresql.Driver <br>&#8594
 &#8594;  db1.datasource.jdbc-url=jdbc:postgresql://localhost:5432/Learning <br>&#8594
-&#8594 db1.datasource.username=postgres <br>&#8594
-&#8594 db1.datasource.password=root <br>&#8594
+&#8594; db1.datasource.username=postgres <br>&#8594
+&#8594, db1.datasource.password=root <br>&#8594
 
 
 ##### MySQL
