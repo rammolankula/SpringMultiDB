@@ -20,10 +20,10 @@ Connection Mutiple Databases by single project
 </pre>
 
 ##### MySQL
-&#8594; db2.datasource.driver-class-name=com.mysql.cj.jdbc.Driver <br>&#8594
-&#8594; db2.datasource.jdbc-url=jdbc:mysql://localhost:3306/Learning <br>&#8594
-&#8594; db2.datasource.username=root <br>&#8594
-&#8594; db2.datasource.password=root<br>&#8594
+&#8594; db2.datasource.driver-class-name=com.mysql.cj.jdbc.Driver 
+&#8594; db2.datasource.jdbc-url=jdbc:mysql://localhost:3306/Learning 
+&#8594; db2.datasource.username=root 
+&#8594; db2.datasource.password=root
 
 ### Code Flow
 &#8594; Created a spring boot starter project <br>&#8594
