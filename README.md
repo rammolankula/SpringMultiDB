@@ -12,11 +12,12 @@ Connection Mutiple Databases by single project
 ###### above all need to implement by using beans
 ###### Required Multiple DataBase Credentials
 ##### PostgresDB
+<pre>
 &#8594;  db1.datasource.driver-class-name=org.postgresql.Driver <br>&#8594
 &#8594;  db1.datasource.jdbc-url=jdbc:postgresql://localhost:5432/Learning <br>&#8594
 &#8594;  db1.datasource.username=postgres <br>&#8594
 &#8594;  db1.datasource.password=root <br>&#8594
-
+</pre>
 
 ##### MySQL
 &#8594; db2.datasource.driver-class-name=com.mysql.cj.jdbc.Driver <br>&#8594
